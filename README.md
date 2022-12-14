@@ -1,4 +1,5 @@
 # gitOperationsDemo
+All these commands has to be run in GITBASH command window.
 
 URL : https://github.com/nikkula/gitOperationsDemo.git
 
@@ -16,24 +17,24 @@ Git Commands:
 10.  git pull  -> Fetch and downaload content from a remote repository
 
 Step 1:
-git config --global user.name "xxxx"
-git config -global user.email xxxx@xxx.com
-git config --list
+-> git config --global user.name "xxxx"
+-> git config -global user.email xxxx@xxx.com
+-> git config --list
 //pwd -> Present working directory
 //After adding new files to the folder then run status command
-git status
-git add .
-git status
-git commit -m "Commit Message any text"
-git log
+-> git status
+-> git add .
+-> git status
+-> git commit -m "Commit Message any text"
+-> git log
 
 //Push the local changes to git Repo
-git remote add origin https://demourl.com/repositoryname.git
-git remote -v
-git push -u origin master
+-> git remote add origin https://github.com/nikkula/gitOperationsDemo.git
+-> git remote -v
+-> git push -u origin master
 --------------------------
 Step 2:
 //Downloading the git remote repository code to my local repository
 
-git pull https://github.com/nikkula/gitOperationsDemo.git
+-> git pull https://github.com/nikkula/gitOperationsDemo.git
 
