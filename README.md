@@ -1,11 +1,6 @@
 # gitOperationsDemo
 
-https://github.com/nikkula/gitOperationsDemo
-
-https://github.com/nikkula/gitOperationsDemo.git
-
-uttarkumar.nikkula@peerislands.io
-
+URL : https://github.com/nikkula/gitOperationsDemo.git
 
 Git Commands:
 -------------
